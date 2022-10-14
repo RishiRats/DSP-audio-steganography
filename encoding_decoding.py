@@ -32,7 +32,7 @@ def encoding():
     write('enco.wav', sr1, scaled)
     exit()
 
-def decodeing():
+def decoding():
     # reading data i.e. numpy array of wav file and sr i.e. that is sampling rate of wav file
     try:
         data1, sr1 = librosa.load(input('Please enter encoded file\'s name: '))
