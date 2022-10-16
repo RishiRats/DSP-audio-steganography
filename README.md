@@ -10,4 +10,4 @@ first open cmd or terminal and run
 "pip install numpy",
 now you can run my code properly (☞ﾟヮﾟ)☞
 # Samples
- "cover.wav" & "msg.wav" are sample audios provided my me for testing. Keep your audio files in the same directory as the code and run the program and follow along the instructions.
+ "cover.wav" & "msg.wav" are sample audios provided by me for testing. Keep your audio files in the same directory as the code and run the program and follow along the instructions.
